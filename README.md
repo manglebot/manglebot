@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @manglebot
+- 👋 Hi, I’m @manglebot.
 - 👀 I’m interested in making things look pretty. Both with graphic design and code.
-- 🌱 I’m currently learning GSAP, which is so much fun and used to use many years ago on Flash projects.
+- 🌱 Primarily a creative person, but I love problem solving.
 - 💞️ I’m looking to collaborate on jobs that pay or any eurorack module code such as the GMSN! Sequencer arduino code.
-- 📫 How to reach me - there's a contact form on my website
+- 📫 How to reach me - there's a contact email on my website. hopefully slightly hidden from spambots.
